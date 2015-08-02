@@ -1,2 +1,3 @@
 # codecademy-html-CSS
-codecadamy hmtl files
+
+A place for my codecademy hmtl files
